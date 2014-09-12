@@ -4,8 +4,8 @@
 
 # Site
 title: Hz Blog
-subtitle: h life
-description: blog | front end | javascript | Hz 
+subtitle: life | code
+description: blog | code | javascript | front end
 author: Huang zq
 email: huangziqiang90@gmail.com
 language: zh_CN
@@ -86,5 +86,5 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repository: https://github.com/Hzzz/hzzz.github.io.git
+  repository: git@github.com:Hzzz/hzzz.github.io.git
   branch: master
